@@ -1,2 +1,1 @@
-# deeplearning_cn
-# Deep Learning cn
+# <<Deep Learning>> Ian Goodfellow,Yoshua Bengio, Aaron Courville中文翻译版 
